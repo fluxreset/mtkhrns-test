@@ -1,0 +1,8 @@
+# Mengabaikan folder virtual environment
+.venv/
+
+# Mengabaikan folder cache Python
+__pycache__/
+
+# Mengabaikan file hasil kompilasi
+*.pyc
